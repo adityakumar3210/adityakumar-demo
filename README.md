@@ -1,4 +1,4 @@
 # adityakumar-demo
 This is my first Repository.
 <br>
-Author - Aditya kumar
+Author - Aditya kumar(Student)
